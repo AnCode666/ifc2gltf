@@ -23,9 +23,9 @@ To run it locally:
 
 1º. Clone this repo.
 
-2ª. To install the dependencies, run: npm i
+2ª. To install the dependencies, go to clone's folder and run in the console: npm i
 
-3ª. To start vite building, and a development server, run: npm run dev
+3ª. To start vite building, and a development server, run in the console: npm run dev
 
 
 To use it:
