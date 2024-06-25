@@ -12,7 +12,7 @@ Also uses following libraries:
 
 **GLTFExporter** [https://threejs.org/docs/#examples/en/exporters/GLTFExporter]
 
-The code used to build the 3D viever, the UI, and to read the IFC files is a copy of the ifcLoader example from That Open Documents [https://docs.thatopen.com/Tutorials/Components/Core/IfcLoader]. Look for the comments in the code that start with "AnCode:" to locate the code needed to convert and download the GLB file.
+The code used to build the 3D viever, the UI, and to read the IFC files is a copy of the ifcLoader example from That Open Documents [https://docs.thatopen.com/Tutorials/Components/Core/IfcLoader]. Go to the file src/example.ts and look for the comments in the code that start with "AnCode:" to locate the code needed to convert and download the GLB file.
 
 The converter uses Vite as build tool.
 
@@ -40,3 +40,5 @@ To use it:
 
 
 GLB file should start downloading...
+
+Enjoy it!!!
