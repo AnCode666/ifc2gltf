@@ -240,8 +240,8 @@ function exportGLB(){
       },
 
       // called when there is an error in the generation
-      function (error: string) {
-          console.log('An error happened: ' + error);
+      function (error: ErrorEvent) {
+          console.log('An error happened: ', error.message);
       },
       options
     );
