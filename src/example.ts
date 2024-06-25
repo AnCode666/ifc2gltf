@@ -297,7 +297,7 @@ Now we will add some UI to explode and restore our BIM model, which can be easil
 /* AnCode 5º: add a buttom to convert and download the GLB file*/
 const panel = BUI.Component.create<BUI.PanelSection>(() => {
   return BUI.html`
-  <bim-panel active label="IFC Loader Tutorial" class="options-menu">
+  <bim-panel active label="IFC Loader to glTF Tutorial" class="options-menu">
     <bim-panel-section collapsed label="Controls">
       <bim-panel-section style="padding-top: 12px;">
       
