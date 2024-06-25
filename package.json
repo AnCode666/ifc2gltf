@@ -14,7 +14,7 @@
     "@thatopen/fragments": "~2.0.0",
     "@thatopen/ui": "~2.0.0",
     "@types/stats.js": "^0.17.3",
-    "@types/three": "^0.160.1",
+    "@types/three": "^0.165.0",
     "stats.js": "^0.17.0",
     "three": "0.160.1",
     "typescript": "^5.2.2",
