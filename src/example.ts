@@ -294,7 +294,6 @@ BUI.Manager.init();
 Now we will add some UI to explode and restore our BIM model, which can be easily done with a checkbox that determines whether a model is exploded or not. For more information about the UI library, you can check the specific documentation for it!
 */
 
-
 /* AnCode 5º: add a buttom to convert and download the GLB file*/
 const panel = BUI.Component.create<BUI.PanelSection>(() => {
   return BUI.html`
