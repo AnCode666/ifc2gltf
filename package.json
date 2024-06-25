@@ -1,0 +1,27 @@
+{
+  "name": "ifc2gltf",
+  "private": true,
+  "version": "0.0.0",
+  "author": "Andrés Corbal Debén (https://github.com/AnCode666)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "three": "0.160.1",
+    "typescript": "^5.2.2",
+    "vite": "^5.3.1",
+
+    "@thatopen/components": "2.0.10",
+    "@thatopen/fragments": "~2.0.0",
+    "@thatopen/ui": "~2.0.0",
+    "web-ifc": "0.0.53",
+    
+    "stats.js": "^0.17.0",
+    "@types/stats.js": "^0.17.3"
+    
+    
+  }
+}
